@@ -1,6 +1,6 @@
 # Menjadi Android Developer Expert, projek Dicoding
 
-##Reactive Programing
+## Reactive Programing
 - retrofit + rx
 - room + rx
 - Convert Flowable to LiveData
