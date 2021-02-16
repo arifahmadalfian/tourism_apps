@@ -1,12 +1,11 @@
 package com.dicoding.tourismapp.core.data
 
 import com.dicoding.tourismapp.core.data.source.remote.network.ApiResponse
-import com.dicoding.tourismapp.core.utils.AppExecutors
 import kotlinx.coroutines.flow.*
 
 
 @Suppress("EXPERIMENTAL_API_USAGE")
-abstract class NetworkBoundResource<ResultType, RequestType>(private val mExecutors: AppExecutors) {
+abstract class NetworkBoundResource<ResultType, RequestType> {
 
     private val result: Flow<Resource<ResultType>> = flow {
         emit(Resource.Loading())
