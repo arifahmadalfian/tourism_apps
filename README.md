@@ -4,3 +4,10 @@
 - retrofit + rx
 - room + rx
 - Convert Flowable to LiveData
+
+## Coroutine Flow
+- retrofit + Coroutine
+- room + Coroutine
+- Convert Flow to LiveData
+
+## Dependeci injection dengan Koin
