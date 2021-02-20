@@ -10,4 +10,5 @@
 - room + Coroutine
 - Convert Flow to LiveData
 
-## Dependeci injection dengan Koin
+## Dependeci injection dengan Koin (lihat di commit)
+## Dependeci injection dengan Dagger 
