@@ -11,4 +11,7 @@
 - Convert Flow to LiveData
 
 ## Dependeci injection dengan Koin (lihat di commit)
-## Dependeci injection dengan Dagger 
+
+## Dependeci injection dengan Dagger (lihat di commit)
+
+## Dependeci injection dengan Dagger Hilt jetpack
