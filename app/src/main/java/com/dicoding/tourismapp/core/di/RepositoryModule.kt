@@ -5,10 +5,10 @@ import com.dicoding.tourismapp.core.domain.repository.ITourismRepository
 import dagger.Binds
 import dagger.Module
 import dagger.hilt.InstallIn
-import dagger.hilt.android.internal.managers.ApplicationComponentManager
+import dagger.hilt.android.components.ApplicationComponent
 
 @Module
-@InstallIn(ApplicationComponentManager::class)
+@InstallIn(ApplicationComponent::class)
 abstract class RepositoryModule {
 
     @Binds
