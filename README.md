@@ -10,8 +10,10 @@
 - room + Coroutine
 - Convert Flow to LiveData
 
-## Dependeci injection dengan Koin (lihat di commit)
+### Dependeci injection dengan Koin (lihat di commit)
 
-## Dependeci injection dengan Dagger (lihat di commit)
+### Dependeci injection dengan Dagger (lihat di commit)
 
-## Dependeci injection dengan Dagger Hilt jetpack
+### Dependeci injection dengan Dagger Hilt jetpack
+
+### Modularization
