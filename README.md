@@ -1,4 +1,6 @@
-# Menjadi Android Developer Expert, projek Dicoding
+# Kelas MADE Dicoding
+
+### Architecture Component, Clean Code, Design Pattern
 
 ## Reactive Programing (lihat di Commit)
 - retrofit + rx
