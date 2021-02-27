@@ -1,11 +1,11 @@
-package com.dicoding.tourism.maps
+package com.dicoding.tourismapp.maps
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import androidx.activity.viewModels
-import com.dicoding.tourism.maps.databinding.ActivityMapsBinding
 import com.dicoding.tourismapp.core.data.Resource
+import com.dicoding.tourismapp.maps.databinding.ActivityMapsBinding
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

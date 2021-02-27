@@ -1,4 +1,4 @@
-package com.dicoding.tourism.maps
+package com.dicoding.tourismapp.maps
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

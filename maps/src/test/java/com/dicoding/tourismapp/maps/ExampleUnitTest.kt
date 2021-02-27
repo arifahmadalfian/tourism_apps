@@ -1,4 +1,4 @@
-package com.dicoding.tourism.maps
+package com.dicoding.tourismapp.maps
 
 import org.junit.Test
 

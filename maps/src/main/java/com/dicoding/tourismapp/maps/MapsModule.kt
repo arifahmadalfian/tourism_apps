@@ -1,4 +1,4 @@
-package com.dicoding.tourism.maps
+package com.dicoding.tourismapp.maps
 
 import androidx.lifecycle.ViewModel
 import com.dicoding.tourismapp.core.domain.usecase.TourismUseCase
