@@ -6,7 +6,9 @@ import android.view.View
 import androidx.activity.viewModels
 import com.dicoding.tourism.maps.databinding.ActivityMapsBinding
 import com.dicoding.tourismapp.core.data.Resource
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class MapsActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMapsBinding
