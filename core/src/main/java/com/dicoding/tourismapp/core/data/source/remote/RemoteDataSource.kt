@@ -9,12 +9,9 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
 import kotlinx.coroutines.flow.flowOn
-import javax.inject.Inject
-import javax.inject.Singleton
 
-@Singleton
 @Suppress("EXPERIMENTAL_API_USAGE")
-class RemoteDataSource @Inject constructor(private val apiService: ApiService) {
+class RemoteDataSource(private val apiService: ApiService) {
 
     @SuppressLint("CheckResult")
     suspend fun getAllTourism(): Flow<ApiResponse<List<TourismResponse>>> {
