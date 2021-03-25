@@ -22,3 +22,4 @@
 
 ## Enkripsi
 - Database SQLiteCipher
+- Obfuscation
