@@ -1,5 +1,4 @@
 # Kelas MADE Dicoding
-
 ### Architecture Component, Clean Code, Design Pattern
 
 ## Reactive Programing (lihat di Commit)
@@ -12,10 +11,14 @@
 - room + Coroutine
 - Convert Flow to LiveData
 
-### Dependeci injection dengan Koin (lihat di commit)
+## Dependencies Injection
+- Koin
+- Dagger (lihat di commit)
+- Dagger Hilt jetpack (lihat di commit)
 
-### Dependeci injection dengan Dagger (lihat di commit)
+## Modularization
+- Library core
+- Dynamic Features
 
-### Dependeci injection dengan Dagger Hilt jetpack
-
-### Modularization
+## Enkripsi
+- Database SQLiteCipher
