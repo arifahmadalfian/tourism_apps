@@ -23,3 +23,4 @@
 ## Enkripsi
 - Database SQLiteCipher
 - Obfuscation
+- SSL Certificate Pinning
