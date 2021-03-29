@@ -24,3 +24,6 @@
 - Database SQLiteCipher
 - Obfuscation
 - SSL Certificate Pinning
+
+## Library
+- Lottie Animation
