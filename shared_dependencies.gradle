@@ -41,6 +41,9 @@ dependencies {
     // lottie
     implementation "com.airbnb.android:lottie:$lottie_version"
 
+    // shimmer
+    implementation "com.facebook.shimmer:shimmer:$shimmer_version"
+
     testImplementation "junit:junit:$junit_version"
     androidTestImplementation "androidx.room:room-testing:$room_version"
     androidTestImplementation "androidx.test.ext:junit:$androidx_junit_version"
