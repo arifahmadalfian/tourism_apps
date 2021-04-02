@@ -44,6 +44,10 @@ dependencies {
     // shimmer
     implementation "com.facebook.shimmer:shimmer:$shimmer_version"
 
+    // mapbox
+    implementation "com.mapbox.mapboxsdk:mapbox-android-sdk:$mapbox_version"
+    implementation "com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v9:$mapbox_annotation_version"
+
     testImplementation "junit:junit:$junit_version"
     androidTestImplementation "androidx.room:room-testing:$room_version"
     androidTestImplementation "androidx.test.ext:junit:$androidx_junit_version"

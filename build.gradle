@@ -36,9 +36,13 @@ buildscript {
 
     ext.shimmer_version = "0.5.0"
 
+    ext.mapbox_version = "9.2.0"
+    ext.mapbox_annotation_version = "0.8.0"
+
     repositories {
         google()
         jcenter()
+        maven { url 'https://mapbox.bintray.com/mapbox' }
         
     }
     dependencies {
@@ -54,6 +58,7 @@ allprojects {
     repositories {
         google()
         jcenter()
+        maven { url 'https://mapbox.bintray.com/mapbox' }
         
     }
 }
